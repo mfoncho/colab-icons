@@ -1,0 +1,27 @@
+{
+    "name": "@colab/icons",
+    "version": "1.0.0",
+    "description": "colab icons",
+    "main": "index.ts",
+    "scripts": {
+        "build": "tsc",
+        "test": "yarn test",
+        "postinstall": "tsc"
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "jsxBracketSameLine": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mfoncho/colab-icons"
+    },
+    "author": "colab team",
+    "license": "ISC",
+    "peerDependencies": {
+        "@material-ui/core": "^4.11.3",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-router": "^5.2.0"
+    }
+}
