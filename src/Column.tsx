@@ -1,4 +1,3 @@
-import columns from "@fortawesome/free-solid-svg-icons/faColumns";
+import { faColumns } from "@fortawesome/free-solid-svg-icons";
 import { createFontAwesomeIcon } from "./utils";
-
-export default createFontAwesomeIcon(columns as any);
+export default createFontAwesomeIcon(faColumns);
