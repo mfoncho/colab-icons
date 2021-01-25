@@ -1,3 +1,3 @@
-import hashtag from "@fortawesome/free-solid-svg-icons/faHashtag";
+import { faHashtag } from "@fortawesome/free-solid-svg-icons";
 import { createFontAwesomeIcon } from "./utils";
-export default createFontAwesomeIcon(hashtag as any);
+export default createFontAwesomeIcon(faHashtag);
