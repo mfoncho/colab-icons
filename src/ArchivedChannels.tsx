@@ -1,3 +1,3 @@
-import archive from "@fortawesome/free-solid-svg-icons/faArchive";
+import { faArchive } from "@fortawesome/free-solid-svg-icons";
 import { createFontAwesomeIcon } from "./utils";
-export default createFontAwesomeIcon(archive as any);
+export default createFontAwesomeIcon(faArchive);

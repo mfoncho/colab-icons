@@ -1,4 +1,4 @@
-import board from "@fortawesome/free-brands-svg-icons/faTrello";
+import { faTrello } from "@fortawesome/free-brands-svg-icons";
 import { createFontAwesomeIcon } from "./utils";
 
-export default createFontAwesomeIcon(board as any);
+export default createFontAwesomeIcon(faTrello);

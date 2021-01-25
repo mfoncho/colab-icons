@@ -1,3 +1,3 @@
-import desktop from "@fortawesome/free-solid-svg-icons/faDesktop";
+import { faDesktop } from "@fortawesome/free-solid-svg-icons";
 import { createFontAwesomeIcon } from "./utils";
-export default createFontAwesomeIcon(desktop as any);
+export default createFontAwesomeIcon(faDesktop);

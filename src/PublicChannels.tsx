@@ -1,3 +1,3 @@
-import globe from "@fortawesome/free-solid-svg-icons/faGlobe";
+import { faGlobe } from "@fortawesome/free-solid-svg-icons";
 import { createFontAwesomeIcon } from "./utils";
-export default createFontAwesomeIcon(globe as any);
+export default createFontAwesomeIcon(faGlobe);
