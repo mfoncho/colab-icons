@@ -2,7 +2,7 @@
     "name": "@colab/icons",
     "version": "1.0.0",
     "description": "colab icons",
-    "main": "index.ts",
+    "main": "lib/index.js",
     "scripts": {
         "build": "tsc",
         "test": "yarn test",
