@@ -30,7 +30,7 @@ export { default as PublicIcon } from "./Public";
 export { default as ThemeDotIcon } from "./Theme";
 export { default as InvitedIcon } from "./CheckedDot";
 export { default as PresenceDotIcon } from "./Presence";
-export { default as VerifiedUser } from "./VerifiedUser";
+export { default as VerifiedUserIcon } from "./VerifiedUser";
 export { default as PreferencesIcon } from "./Preferences";
 export { default as CardDone } from "./CheckedDot";
 export { default as ThemeSelectedDotIcon } from "./CheckedDot";
