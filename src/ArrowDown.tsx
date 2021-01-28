@@ -1,1 +1,1 @@
-import { default } from "@material-ui/icons/KeyboardArrowDown"
+export { default } from "@material-ui/icons/KeyboardArrowDown"
