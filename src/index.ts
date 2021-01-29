@@ -35,6 +35,7 @@ export { default as CheckedDotIcon } from "./CheckedDot";
 export { default as PresenceDotIcon } from "./Presence";
 export { default as VerifiedUserIcon } from "./VerifiedUser";
 export { default as PreferencesIcon } from "./Preferences";
+export { default as CheckIcon } from "./Check";
 export { default as CardDoneIcon } from "./CheckedDot";
 export { default as ThemeSelectedDotIcon } from "./CheckedDot";
 export { default as InvitationApprovedIcon } from "./CheckedDot";
