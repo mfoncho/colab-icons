@@ -11,6 +11,7 @@ export { default as ArrowDropDownIcon } from "./ArrowDropDown";
 export { default as PlusIcon } from "./Plus";
 export { default as ChatIcon } from "./Chat";
 export { default as UserIcon } from "./User";
+export { default as AddUserIcon } from "./AddUser";
 export { default as TagsMenuIcon } from "./Tag";
 export { default as PostMessageIcon } from "./Post";
 export { default as MultilineIcon } from "./Multiline";
