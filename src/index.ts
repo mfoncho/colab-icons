@@ -42,3 +42,6 @@ export { default as ThemeSelectedDotIcon } from "./CheckedDot";
 export { default as InvitationApprovedIcon } from "./CheckedDot";
 export { default as PublicChannelsIcon } from "./PublicChannels";
 export { default as ArchivedChannelsIcon } from "./ArchivedChannels";
+export { default as OrgIcon } from "./Org";
+export { default as StorageIcon } from "./Storage";
+export { default as WorkspaceIcon } from "./Workspace";
