@@ -17,6 +17,7 @@ export { default as PostMessageIcon } from "./Post";
 export { default as MultilineIcon } from "./Multiline";
 export { default as FileIcon } from "./File";
 export { default as PaneIcon } from "./Pane";
+export { default as ChannelIcon } from "./Channel";
 export { default as ArrowUpIcon } from "./ArrowUp";
 export { default as ArrowDownIcon } from "./ArrowDown";
 export { default as EmojiIcon } from "./Emoji";
