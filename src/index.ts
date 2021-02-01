@@ -25,6 +25,7 @@ export { default as CloseIcon } from "./Close";
 export { default as AdminIcon } from "./Admin";
 export { default as BoardIcon } from "./Board";
 export { default as TopicIcon } from "./Topic";
+export { default as UsersIcon } from "./Users";
 export { default as ReplyIcon } from "./Reply";
 export { default as ErrorIcon } from "./Error";
 export { default as Warning } from "./Warning";
